@@ -86,15 +86,15 @@ Upload your resume + paste any job description and CareerFit AI gives you:
 
 **Match Analysis:**
 
-![Match Analysis](screenshots/match_analysis.png)
+![Match Analysis](Screenshots/match_analysis.png)
 
 **Skills Breakdown:**
 
-![Skills](screenshots/skills_breakdown.png)
+![Skills](Screenshots/skills_breakdown.png)
 
 **Learning Roadmap:**
 
-![Roadmap](screenshots/learning_roadmap.png)
+![Roadmap](Screenshots/learning_roadmap.png)
 
 ---
 
