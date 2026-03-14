@@ -109,6 +109,10 @@ This gives you a much more accurate picture of where you stand instead of binary
 
 ![Skills Breakdown](Screenshots/skills_breakdown.png)
 
+**Strengths & Resume Bullets:**
+
+![Strengths and Bullets](Screenshots/strengths_and_bullets.png)
+
 **Learning Roadmap:**
 
 ![Learning Roadmap](Screenshots/learning_roadmap.png)
